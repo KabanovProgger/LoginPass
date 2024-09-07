@@ -9,7 +9,6 @@ import UIKit
 
 class RegistrationVC: UIViewController {
 
-
     @IBOutlet weak var nameTF: UITextField!
     @IBOutlet weak var lastnameTF: UITextField!
     @IBOutlet weak var loginTF: UITextField!
